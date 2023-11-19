@@ -11,8 +11,8 @@ POST http://localhost:8080/api/products
 Content-Type: application/json
 
 {
-    "name": "HP",
-    "description": "Samsung",
+    "name": "Laptop",
+    "description": "X390",
     "price": 1500000
 }
 
